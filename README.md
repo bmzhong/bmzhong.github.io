@@ -1,6 +1,8 @@
 
 
-[TOC]
+[toc]
+
+
 
 ### 1. VoxelMorph: A Learning Framework for Deformable Medical Image Registration (2019 CVPR VoxeMorph)
 
